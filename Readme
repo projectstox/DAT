@@ -1,0 +1,49 @@
+DAT – Developer AI Tools
+DAT is a developer-oriented, simulated command environment designed to structure and enhance your programming workflow with Microsoft Copilot.
+It offers a set of symbolic commands to help organize tasks, manage snippets, and improve focus, all fully compliant with Microsoft Copilot’s terms.
+
+Features
+Fully legal and compliant with Microsoft Copilot terms
+
+Simulated developer commands for workflow structuring
+
+Supports multiple programming languages
+
+Built-in TODO list and snippet management
+
+Symbolic logging control
+
+Fun cheese-only response mode
+
+Available Commands (Symbolic)
+/dat activate — Start a new DAT session
+
+/dat info — Show session information
+
+/dat version — Show DAT version
+
+/dat status — Overview of session status
+
+/dat setlang [language] — Set programming language
+
+/dat snippet [name] — Show code snippet
+
+/dat todo add "task" — Add TODO task
+
+/dat todo list — List TODO tasks
+
+/dat reset — Reset session
+
+/dat log on|off — Toggle logging
+
+/dat eject — Exit DAT session
+
+/dat cheese inject — Enable cheese-only responses
+
+/dat cheese eject — Disable cheese-only responses
+
+Usage
+Activate a session with /dat activate, manage tasks and snippets using the commands above, and exit anytime with /dat eject.
+All commands are symbolic and do not alter Copilot’s core behavior.
+
+Made by XSTOX, owner of Project STOX
